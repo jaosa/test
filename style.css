@@ -8,5 +8,7 @@ body {
 	height: 100vh;
 	overflow: hidden;
 	color: #fff;
-    background: royalblue;
+	background: royalblue;
+	height: 100px;
+	width: 200px;
 }
